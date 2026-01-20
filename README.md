@@ -89,19 +89,19 @@ Organization profile README
 ### 🎰 Gaming & Entertainment
 | Project | Description | Repo |
 |---------|-------------|------|
-| [**Casino Cards**](https://github.com/GRID-SERVICES-GIT/casino-cards) | Card game platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-cards) |
 | [**Faction Wars**](https://github.com/GRID-SERVICES-GIT/faction-wars) | Strategy game | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/faction-wars) |
 | [**Lucha**](https://github.com/GRID-SERVICES-GIT/lucha) | Entertainment platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/lucha) |
 
 ### 🖼️ NFT & Marketplaces
 | Project | Description | Repo |
 |---------|-------------|------|
+| [**GRID Syndicate**](https://github.com/GRID-SERVICES-GIT/grid-syndicate) | NFT whitelist platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-syndicate) |
+| [**NFT Card Fusion**](https://github.com/GRID-SERVICES-GIT/casino-cards) | Card fusion & reminting | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-cards) |
 | [**NFT Marketplace**](https://github.com/GRID-SERVICES-GIT/nft-marketplace) | XRPL NFT trading | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/nft-marketplace) |
 
 ### 🌐 Platforms & Websites
 | Project | Description | Repo |
 |---------|-------------|------|
-| [**Grid Syndicate**](https://github.com/GRID-SERVICES-GIT/grid-syndicate) | Community platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-syndicate) |
 | [**Jester Website**](https://github.com/GRID-SERVICES-GIT/jester-website) | Token project site | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/jester-website) |
 | [**Jungle Radio**](https://github.com/GRID-SERVICES-GIT/jungle-radio) | Media streaming | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/jungle-radio) |
 | [**Nuts Websites**](https://github.com/GRID-SERVICES-GIT/nuts-websites) | Multi-site platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/nuts-websites) |
