@@ -84,11 +84,11 @@ Organization profile README
 | [**Grid Drop**](https://github.com/GRID-SERVICES-GIT/grid-drop) | Token distribution tool | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-drop) |
 | [**Auto Airdrop**](https://github.com/GRID-SERVICES-GIT/auto-airdrop) | NFT-holder automated airdrops | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/auto-airdrop) |
 | [**Grid Lock**](https://github.com/GRID-SERVICES-GIT/grid-lock) | Token locking mechanism | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-lock) |
+| [**Token Faucet**](https://github.com/GRID-SERVICES-GIT/casino-faucet) | Token claim system | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-faucet) |
 
 ### 🎰 Gaming & Entertainment
 | Project | Description | Repo |
 |---------|-------------|------|
-| [**Casino Faucet**](https://github.com/GRID-SERVICES-GIT/casino-faucet) | Casino faucet system | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-faucet) |
 | [**Casino Cards**](https://github.com/GRID-SERVICES-GIT/casino-cards) | Card game platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-cards) |
 | [**Faction Wars**](https://github.com/GRID-SERVICES-GIT/faction-wars) | Strategy game | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/faction-wars) |
 | [**Lucha**](https://github.com/GRID-SERVICES-GIT/lucha) | Entertainment platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/lucha) |
