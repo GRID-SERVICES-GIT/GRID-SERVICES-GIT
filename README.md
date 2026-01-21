@@ -89,7 +89,7 @@ Organization profile README
 ### 🎰 Gaming & Entertainment
 | Project | Description | Repo |
 |---------|-------------|------|
-| [**Faction Wars**](https://github.com/GRID-SERVICES-GIT/faction-wars) | Strategy game | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/faction-wars) |
+| [**Faction Wars**](https://github.com/GRID-SERVICES-GIT/faction-wars) | NFT community engagement | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/faction-wars) |
 | [**Lucha**](https://github.com/GRID-SERVICES-GIT/lucha) | Entertainment platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/lucha) |
 
 ### 🖼️ NFT & Marketplaces
