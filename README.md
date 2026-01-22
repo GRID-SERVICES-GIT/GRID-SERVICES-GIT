@@ -8,7 +8,7 @@ Organization profile README
 
 <div align="center">
   
-  # 🔷 GRID XRPL
+  # � GRID XRPL
   
   **AI + Web3 Product Development | Automation | XRPL Tooling | Dashboards**
   
@@ -65,7 +65,7 @@ Organization profile README
 
 ---
 
-## 🔷 Featured Projects
+## � Featured Projects
 
 > 📂 **[View Full Portfolio →](https://grid-services-git.github.io/Portfolio/)** | **[GitHub Repos →](https://github.com/orgs/GRID-SERVICES-GIT/repositories)**
 
@@ -86,11 +86,10 @@ Organization profile README
 | [**Grid Lock**](https://github.com/GRID-SERVICES-GIT/grid-lock) | Token locking mechanism | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-lock) |
 | [**Token Faucet**](https://github.com/GRID-SERVICES-GIT/casino-faucet) | Token claim system | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-faucet) |
 
-### 🎰 Gaming & Entertainment
+### 🎰 Gaming & Community
 | Project | Description | Repo |
 |---------|-------------|------|
 | [**Faction Wars**](https://github.com/GRID-SERVICES-GIT/faction-wars) | NFT community engagement | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/faction-wars) |
-| [**Lucha**](https://github.com/GRID-SERVICES-GIT/lucha) | Entertainment platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/lucha) |
 
 ### 🖼️ NFT & Marketplaces
 | Project | Description | Repo |
@@ -102,11 +101,12 @@ Organization profile README
 ### 🌐 Platforms & Websites
 | Project | Description | Repo |
 |---------|-------------|------|
-| [**Jester Website**](https://github.com/GRID-SERVICES-GIT/jester-website) | Token project site | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/jester-website) |
-| [**Jungle Radio**](https://github.com/GRID-SERVICES-GIT/jungle-radio) | Media streaming | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/jungle-radio) |
-| [**Nuts Websites**](https://github.com/GRID-SERVICES-GIT/nuts-websites) | Multi-site platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/nuts-websites) |
-| [**Badger Hole**](https://github.com/GRID-SERVICES-GIT/badger-hole) | Community platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/badger-hole) |
-| [**Dr Uga**](https://github.com/GRID-SERVICES-GIT/dr-uga) | Web3 application | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/dr-uga) |
+| [**LUCHA Website**](https://github.com/GRID-SERVICES-GIT/lucha) | Token marketing site | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/lucha) |
+| [**Jester Website**](https://github.com/GRID-SERVICES-GIT/jester-website) | Token landing page | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/jester-website) |
+| [**Jungle Radio**](https://github.com/GRID-SERVICES-GIT/jungle-radio) | Live streaming & requests | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/jungle-radio) |
+| [**Nuts Websites**](https://github.com/GRID-SERVICES-GIT/nuts-websites) | Sports pick-em games | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/nuts-websites) |
+| [**The Badger Hole**](https://github.com/GRID-SERVICES-GIT/badger-hole) | Bad actor reporting | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/badger-hole) |
+| [**ProxGamers**](https://github.com/GRID-SERVICES-GIT/dr-uga) | Gaming competitions | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/dr-uga) |
 
 ### 🛠️ Utilities & Infrastructure
 | Project | Description | Repo |
@@ -150,5 +150,5 @@ Organization profile README
 ---
 
 <div align="center">
-  <sub>Built with 💜 on the XRP Ledger</sub>
+  <sub>Built with � on the XRP Ledger</sub>
 </div>
