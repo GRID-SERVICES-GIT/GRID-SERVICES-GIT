@@ -8,7 +8,7 @@ Organization profile README
 
 <div align="center">
   
-  # � GRID XRPL
+  # 🟡 GRID XRPL
   
   **AI + Web3 Product Development | Automation | XRPL Tooling | Dashboards**
   
@@ -65,7 +65,7 @@ Organization profile README
 
 ---
 
-## � Featured Projects
+## 🟡 Featured Projects
 
 > 📂 **[View Full Portfolio →](https://grid-services-git.github.io/Portfolio/)** | **[GitHub Repos →](https://github.com/orgs/GRID-SERVICES-GIT/repositories)**
 
@@ -150,5 +150,5 @@ Organization profile README
 ---
 
 <div align="center">
-  <sub>Built with � on the XRP Ledger</sub>
+  <sub>Built with 🟡 on the XRP Ledger</sub>
 </div>
