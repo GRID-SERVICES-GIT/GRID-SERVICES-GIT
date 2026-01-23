@@ -20,48 +20,25 @@ Organization profile README
 
 ---
 
-## 🚀 What We Build
+## � What We Build
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/bot.png" width="48"/><br/>
-      <b>Trading Bots</b><br/>
-      <sub>Market makers, snipers, volume tools</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/defi.png" width="48"/><br/>
-      <b>DeFi Tools</b><br/>
-      <sub>Wallets, airdrops, locks, DEX</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/gaming.png" width="48"/><br/>
-      <b>Gaming</b><br/>
-      <sub>Casino, games, entertainment</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/nft.png" width="48"/><br/>
-      <b>NFT</b><br/>
-      <sub>Marketplaces & tools</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/web.png" width="48"/><br/>
-      <b>Websites</b><br/>
-      <sub>Web apps & dashboards</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/utilities.png" width="48"/><br/>
-      <b>Utilities</b><br/>
-      <sub>Token checkers, nodes</sub>
-    </td>
-    <td align="center" width="150" colspan="2">
-      <img src="https://img.shields.io/badge/22+-Projects-6366f1?style=flat-square&logo=github" /><br/>
-      <b><a href="https://grid-services-git.github.io/PORTFOLIO/">View Portfolio →</a></b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/bot.png" width="64"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/defi.png" width="64"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/gaming.png" width="64"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/nft.png" width="64"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/web.png" width="64"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/utilities.png" width="64"/>
+  
+  <br/><br/>
+  
+  **[View Portfolio →](https://grid-services-git.github.io/PORTFOLIO/)**
+</div>
 
 ---
 
