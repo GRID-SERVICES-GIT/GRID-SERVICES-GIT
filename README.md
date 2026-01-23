@@ -69,7 +69,7 @@ Organization profile README
 
 > 📂 **[View Full Portfolio →](https://grid-services-git.github.io/PORTFOLIO/)** | **[GitHub Repos →](https://github.com/orgs/GRID-SERVICES-GIT/repositories)**
 
-### 🤖 Trading & Automation
+### 🟡 Trading & Automation
 | Project | Description | Repo |
 |---------|-------------|------|
 | [**Market Maker Pro**](https://github.com/GRID-SERVICES-GIT/market-makerpro) | Advanced token market maker | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/market-makerpro) |
@@ -77,7 +77,7 @@ Organization profile README
 | [**Volume Bot**](https://github.com/GRID-SERVICES-GIT/volume-bot) | Organic volume generation | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/volume-bot) |
 | [**Limit Order Tool**](https://github.com/GRID-SERVICES-GIT/limit-order-tool) | DEX limit order system | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/limit-order-tool) |
 
-### 💰 DeFi & Wallets
+### � DeFi & Wallets
 | Project | Description | Repo |
 |---------|-------------|------|
 | [**GRID Wallet**](https://github.com/GRID-SERVICES-GIT/grid-wallet) | Secure XRPL wallet | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-wallet) |
@@ -86,19 +86,19 @@ Organization profile README
 | [**Grid Lock**](https://github.com/GRID-SERVICES-GIT/grid-lock) | Token locking mechanism | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-lock) |
 | [**Token Faucet**](https://github.com/GRID-SERVICES-GIT/casino-faucet) | Token claim system | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-faucet) |
 
-### 🎰 Gaming & Community
+### 🟡 Gaming & Community
 | Project | Description | Repo |
 |---------|-------------|------|
 | [**Faction Wars**](https://github.com/GRID-SERVICES-GIT/faction-wars) | NFT community engagement | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/faction-wars) |
 
-### 🖼️ NFT & Marketplaces
+### � NFT & Marketplaces
 | Project | Description | Repo |
 |---------|-------------|------|
 | [**GRID Syndicate**](https://github.com/GRID-SERVICES-GIT/grid-syndicate) | NFT whitelist platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-syndicate) |
 | [**NFT Card Fusion**](https://github.com/GRID-SERVICES-GIT/casino-cards) | Card fusion & reminting | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-cards) |
 | [**NFT Marketplace**](https://github.com/GRID-SERVICES-GIT/nft-marketplace) | XRPL NFT trading | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/nft-marketplace) |
 
-### 🌐 Platforms & Websites
+### 🟡 Platforms & Websites
 | Project | Description | Repo |
 |---------|-------------|------|
 | [**LUCHA Website**](https://github.com/GRID-SERVICES-GIT/lucha) | Token marketing site | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/lucha) |
@@ -108,7 +108,7 @@ Organization profile README
 | [**The Badger Hole**](https://github.com/GRID-SERVICES-GIT/badger-hole) | Bad actor reporting | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/badger-hole) |
 | [**ProxGamers**](https://github.com/GRID-SERVICES-GIT/dr-uga) | Gaming competitions | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/dr-uga) |
 
-### 🛠️ Utilities & Infrastructure
+### � Utilities & Infrastructure
 | Project | Description | Repo |
 |---------|-------------|------|
 | [**Grid Node**](https://github.com/GRID-SERVICES-GIT/grid-node) | XRPL node software | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-node) |
