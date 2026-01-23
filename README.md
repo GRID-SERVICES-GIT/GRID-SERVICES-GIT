@@ -70,50 +70,50 @@ Organization profile README
 > 📂 **[View Full Portfolio →](https://grid-services-git.github.io/PORTFOLIO/)** | **[GitHub Repos →](https://github.com/orgs/GRID-SERVICES-GIT/repositories)**
 
 ### 🟡 Trading & Automation
-| Project | Description | Repo |
-|---------|-------------|------|
-| [**Market Maker Pro**](https://github.com/GRID-SERVICES-GIT/market-makerpro) | Advanced token market maker | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/market-makerpro) |
-| [**Sniper Bot**](https://github.com/GRID-SERVICES-GIT/sniper-bot) | Token launch sniper | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/sniper-bot) |
-| [**Volume Bot**](https://github.com/GRID-SERVICES-GIT/volume-bot) | Organic volume generation | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/volume-bot) |
-| [**Limit Order Tool**](https://github.com/GRID-SERVICES-GIT/limit-order-tool) | DEX limit order system | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/limit-order-tool) |
+| Project | Description |
+|---------|-------------|
+| **Market Maker Pro** | Advanced token market maker |
+| **Sniper Bot** | Token launch sniper |
+| **Volume Bot** | Organic volume generation |
+| **Limit Order Tool** | DEX limit order system |
 
-### � DeFi & Wallets
-| Project | Description | Repo |
-|---------|-------------|------|
-| [**GRID Wallet**](https://github.com/GRID-SERVICES-GIT/grid-wallet) | Secure XRPL wallet | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-wallet) |
-| [**Grid Drop**](https://github.com/GRID-SERVICES-GIT/grid-drop) | Token distribution tool | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-drop) |
-| [**Auto Airdrop**](https://github.com/GRID-SERVICES-GIT/auto-airdrop) | NFT-holder automated airdrops | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/auto-airdrop) |
-| [**Grid Lock**](https://github.com/GRID-SERVICES-GIT/grid-lock) | Token locking mechanism | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-lock) |
-| [**Token Faucet**](https://github.com/GRID-SERVICES-GIT/casino-faucet) | Token claim system | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-faucet) |
+### 🟡 DeFi & Wallets
+| Project | Description |
+|---------|-------------|
+| **GRID Wallet** | Secure XRPL wallet |
+| **Grid Drop** | Token distribution tool |
+| **Auto Airdrop** | NFT-holder automated airdrops |
+| **Grid Lock** | Token locking mechanism |
+| **Token Faucet** | Token claim system |
 
 ### 🟡 Gaming & Community
-| Project | Description | Repo |
-|---------|-------------|------|
-| [**Faction Wars**](https://github.com/GRID-SERVICES-GIT/faction-wars) | NFT community engagement | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/faction-wars) |
+| Project | Description |
+|---------|-------------|
+| **Faction Wars** | NFT community engagement |
 
-### � NFT & Marketplaces
-| Project | Description | Repo |
-|---------|-------------|------|
-| [**GRID Syndicate**](https://github.com/GRID-SERVICES-GIT/grid-syndicate) | NFT whitelist platform | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-syndicate) |
-| [**NFT Card Fusion**](https://github.com/GRID-SERVICES-GIT/casino-cards) | Card fusion & reminting | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/casino-cards) |
-| [**NFT Marketplace**](https://github.com/GRID-SERVICES-GIT/nft-marketplace) | XRPL NFT trading | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/nft-marketplace) |
+### 🟡 NFT & Marketplaces
+| Project | Description |
+|---------|-------------|
+| **GRID Syndicate** | NFT whitelist platform |
+| **NFT Card Fusion** | Card fusion & reminting |
+| **NFT Marketplace** | XRPL NFT trading |
 
 ### 🟡 Platforms & Websites
-| Project | Description | Repo |
-|---------|-------------|------|
-| [**LUCHA Website**](https://github.com/GRID-SERVICES-GIT/lucha) | Token marketing site | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/lucha) |
-| [**Jester Website**](https://github.com/GRID-SERVICES-GIT/jester-website) | Token landing page | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/jester-website) |
-| [**Jungle Radio**](https://github.com/GRID-SERVICES-GIT/jungle-radio) | Live streaming & requests | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/jungle-radio) |
-| [**Nuts Websites**](https://github.com/GRID-SERVICES-GIT/nuts-websites) | Sports pick-em games | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/nuts-websites) |
-| [**The Badger Hole**](https://github.com/GRID-SERVICES-GIT/badger-hole) | Bad actor reporting | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/badger-hole) |
-| [**ProxGamers**](https://github.com/GRID-SERVICES-GIT/dr-uga) | Gaming competitions | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/dr-uga) |
+| Project | Description |
+|---------|-------------|
+| **LUCHA Website** | Token marketing site |
+| **Jester Website** | Token landing page |
+| **Jungle Radio** | Live streaming & requests |
+| **Nuts Websites** | Sports pick-em games |
+| **The Badger Hole** | Bad actor reporting |
+| **ProxGamers** | Gaming competitions |
 
-### � Utilities & Infrastructure
-| Project | Description | Repo |
-|---------|-------------|------|
-| [**Grid Node**](https://github.com/GRID-SERVICES-GIT/grid-node) | XRPL node software | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-node) |
-| [**Grid Token Checker**](https://github.com/GRID-SERVICES-GIT/grid-token-checker) | Token verification | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-token-checker) |
-| [**Grid Tickets**](https://github.com/GRID-SERVICES-GIT/grid-tickets) | Ticketing system | [![Repo](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/GRID-SERVICES-GIT/grid-tickets) |
+### 🟡 Utilities & Infrastructure
+| Project | Description |
+|---------|-------------|
+| **Grid Node** | XRPL node software |
+| **Grid Token Checker** | Token verification |
+| **Grid Tickets** | Ticketing system |
 
 ---
 
