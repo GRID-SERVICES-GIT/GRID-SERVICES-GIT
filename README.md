@@ -23,17 +23,17 @@ Organization profile README
 ## � What We Build
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/bot.png" width="64"/>
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/bot.png" width="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/defi.png" width="64"/>
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/defi.png" width="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/gaming.png" width="64"/>
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/gaming.png" width="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/nft.png" width="64"/>
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/nft.png" width="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/web.png" width="64"/>
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/web.png" width="100"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/utilities.png" width="64"/>
+  <img src="https://raw.githubusercontent.com/GRID-SERVICES-GIT/PORTFOLIO/main/assets/utilities.png" width="100"/>
   
   <br/><br/>
   
